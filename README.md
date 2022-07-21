@@ -3,7 +3,7 @@ Maybe use it to protect a valuable chunk of your code.
 Ex.: "If you touch this prepare to be Smith'd"
 
 Licensing:
-you do you bro... I hope this gets used anywhere and everywhere.
+you do you bro/broette... I hope this gets used anywhere and everywhere.
                                                                                                                                                                                                         
                                                                                                                                                                                                         
                                                                                                                                                                                                         
